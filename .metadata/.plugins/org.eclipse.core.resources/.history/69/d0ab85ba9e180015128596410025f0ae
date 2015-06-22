@@ -18,9 +18,9 @@
     <![endif]-->
   </head>
   <body>
-    <!-- Inicio Barra de navegación -->
     <div class="container-fluid">
       <div class="row">
+        <!-- Inicio Barra de navegación -->
         <nav class="navbar navbar-default" role="navigation">
           <!-- El logotipo y el icono que despliega el menú se agrupan
                para mostrarlos mejor en los dispositivos móviles -->
@@ -38,30 +38,11 @@
             <ul class="nav navbar-nav">
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  MEMORANDOS<b class="caret"></b>
+                  SERIES <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Requermiento de Vehículos y Choferes</a></li>
-                  <li><a href="#">Mantenimiento de Vehículos</a></li>
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  SOLICITUDES<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Requerimiento de Vehículos y Choferes</a></li>
-                  <li><a href="#">Mantenimiento de Vehículos</a></li>
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  INFORMES<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Requerimiento de Vehículos y Choferes</a></li>
-                  <li><a href="#">Mantenimiento de Vehículos</a></li>
-                  <li><a href="#">Reparación Vehicular</a></li>
+                  <li><a href="#">Listado</a></li>
+                  <li><a href="#">Agregar</a></li>
                 </ul>
               </li>
               <li class="dropdown">
@@ -69,17 +50,25 @@
                   USUARIOS <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Empleados Municipales</a></li>
-                  <li><a href="#">Administradores</a></li>
+                  <li><a href="#">Listado</a></li>
+                  <li><a href="#">Agregar</a></li>
                 </ul>
               </li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  OTROS<b class="caret"></b>
+                  COMENTARIOS <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Vehículos</a></li>
-                  <li><a href="#">Talleres Mecánicos</a></li>
+                  <li><a href="#">Listado</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                  IDIOMAS <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Listado</a></li>
+                  <li><a href="#">Agregar</a></li>
                 </ul>
               </li>
             </ul>
@@ -87,19 +76,19 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     PERFIL <b class="caret"></b>
-                    </a>
                     <ul class="dropdown-menu">
-                      <li><a href="#">Ver Perfil</a></li>
-                      <li><a href="#">Editar Perfil</a></li>
+                      <li><a href="#">Ver</a></li>
+                      <li><a href="#">Editar</a></li>
                     </ul>
+                  </a>
                 </li>
                 <li><a href="#">SALIR</a></li>
             </ul>
           </div>
-        </nav> 
+        </nav>
+        <!-- Fin Barra de Navegación --> 
       </div>
     </div>
-    <!-- Fin Barra de Navegación -->
     
     <!-- Inicio cabezera de escritorio -->
     <div class="container">
